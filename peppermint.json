@@ -1,1 +1,15 @@
-
+{
+  "version": "2026.0.1 Beta",
+  "versionLabel": "v2026.0.1 Beta",
+  "channel": "Beta",
+  "releaseDate": "2026-10-15",
+  "releaseUrl": "https://github.com/AstroDevCompany/Peppermint/releases/tag/Beta",
+  "downloads": {
+    "macos-universal": "https://github.com/AstroDevCompany/Peppermint/releases/download/Beta/Peppermint.dmg",
+    "windows-x64": "",
+    "windows-arm64": "",
+    "windows-x64-zip": "",
+    "linux-x64": "",
+    "linux-arm64": ""
+  }
+}
