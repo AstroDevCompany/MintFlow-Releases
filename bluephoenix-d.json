@@ -1,6 +1,6 @@
 {
-  "windows": "downloadlink...",
-  "macos": "downloadlink...",
-  "linux": "downloadlink...",
-  "ios": "downloadlink..."
+  "windows": "",
+  "macos": "https://github.com/AstroDevCompany/BluePhoenix-v2/releases/download/BETA-v2/BluePhoenix_0.2.0_macos.dmg",
+  "linux": "",
+  "ios": "https://github.com/AstroDevCompany/BluePhoenix-v2/releases/download/BETA-v2/BluePhoenix_0.2.0_ios.ipa"
 }
