@@ -4,12 +4,12 @@
   "versionLabel": "v2026.0.2 Beta",
   "channel": "Beta",
   "releaseDate": "2026-10-26",
-  "releaseUrl": "https://github.com/AstroDevCompany/Peppermint/releases/tag/BETA-2026.0.2",
+  "releaseUrl": "https://github.com/montanari-luca/Peppermint/releases/tag/BETA-2026.0.2",
   "downloads": {
-    "macos-universal": "https://github.com/AstroDevCompany/Peppermint/releases/download/BETA-2026.0.2/Peppermint-v2026.0.2-macos.dmg",
-    "windows-x64": "https://github.com/AstroDevCompany/Peppermint/releases/download/BETA-2026.0.2/Peppermint-v2026.0.2-windows.exe.zip",
+    "macos-universal": "https://github.com/montanari-luca/Peppermint/releases/download/BETA-2026.0.2/Peppermint-v2026.0.2-macos.dmg",
+    "windows-x64": "https://github.com/montanari-luca/Peppermint/releases/download/BETA-2026.0.2/Peppermint-v2026.0.2-windows.exe.zip",
     "windows-arm64": "",
-    "windows-x64-zip": "https://github.com/AstroDevCompany/Peppermint/releases/download/BETA-2026.0.2/Peppermint-v2026.0.2-windows.exe.zip",
+    "windows-x64-zip": "https://github.com/montanari-luca/Peppermint/releases/download/BETA-2026.0.2/Peppermint-v2026.0.2-windows.exe.zip",
     "linux-x64": "",
     "linux-arm64": ""
   }

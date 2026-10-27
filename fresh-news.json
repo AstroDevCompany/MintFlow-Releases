@@ -1,13 +1,13 @@
 {
-"version": "1.1 Beta",
-"versionLabel": "v1.1 Beta",
-"channel": "Beta",
-"releaseDate": "2026-10-17",
-"releaseUrl": "https://github.com/AstroDevCompany/FreshNews/releases/tag/BETA-1-1",
-"downloads": {
-"macos": "https://github.com/AstroDevCompany/FreshNews/releases/download/BETA-1-1/FreshNews-v1.1-aarch64.dmg",
-"ios": "https://github.com/AstroDevCompany/FreshNews/releases/download/BETA-1-1/FreshNews-v1.1.ipa",
-"windows": "https://github.com/AstroDevCompany/FreshNews/releases/download/BETA-1-1/FreshNews-v1.1-x64-setup.exe",
-"linux": ""
-}
+  "version": "1.1 Beta",
+  "versionLabel": "v1.1 Beta",
+  "channel": "Beta",
+  "releaseDate": "2026-10-17",
+  "releaseUrl": "https://github.com/montanari-luca/FreshNews/releases/tag/BETA-1-1",
+  "downloads": {
+    "macos": "https://github.com/montanari-luca/FreshNews/releases/download/BETA-1-1/FreshNews-v1.1-aarch64.dmg",
+    "ios": "https://github.com/montanari-luca/FreshNews/releases/download/BETA-1-1/FreshNews-v1.1.ipa",
+    "windows": "https://github.com/montanari-luca/FreshNews/releases/download/BETA-1-1/FreshNews-v1.1-x64-setup.exe",
+    "linux": ""
+  }
 }
