@@ -1,5 +1,9 @@
-{
-  "latest": "0.1.0",
-  "windows": "",
-  "macos": ""
+{ "version": "0.1.0", 
+  "notes": "", 
+  "pub_date": "",
+  "platforms": {
+    "darwin-aarch64":  { "signature": "", "url": "" },
+    "darwin-x86_64":   { "signature": "", "url": "" },
+    "windows-x86_64":  { "signature": "", "url": "" } 
+  } 
 }
